@@ -1,8 +1,7 @@
 # Data analysis
 - Document here the project: PurchaseTransactionsProject
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+- Data Source: This is a dataset of UK-based B2C e-commerce sales transactions for one year. This London-based shop has been selling gifts and homewares for adults and children through the website since 2007. Their customers come from all over the world and usually make direct purchases for themselves. There are also small businesses that buy in bulk and sell to other customers through retail outlet channels. The dataset contains 500K rows and 8 columns
+- Type of analysis: Performing some data exploration along RFM analysis and segmentation using RFM techniques and Kmeans
 
 Please document the project the better you can.
 
